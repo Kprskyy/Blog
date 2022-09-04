@@ -1,4 +1,4 @@
-# Currency-Converter
+# Currency-Converter | course
 
 • A simple application for currency conversion
 
